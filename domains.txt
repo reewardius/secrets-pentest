@@ -1,0 +1,7 @@
+google.com
+apple.com
+microsoft.com
+tesla.com
+samsung.com
+github.com
+youtube.com
